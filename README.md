@@ -2,7 +2,7 @@
 
 ## Install
 
-This repo is client built using [https://github.com/aarhusstadsarkiv/stadsarkiv-client](stadsarkiv-client)
+This repo is client built using [stadsarkiv-client](https://github.com/aarhusstadsarkiv/stadsarkiv-client)
 
 For setup see: 
 
