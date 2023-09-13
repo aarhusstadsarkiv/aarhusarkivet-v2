@@ -16,10 +16,4 @@
 
 This repo is client built using [stadsarkiv-client](https://github.com/aarhusstadsarkiv/stadsarkiv-client)
 
-virtual
-
-pip install -r requirements.txt
-
-For setup see: 
-
-https://github.com/aarhusstadsarkiv/stadsarkiv-client/tree/main#install-as-requirement
+See above READMEs for more information about server setup. 
