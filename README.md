@@ -14,6 +14,6 @@
 
 ## About
 
-This repo is client built using [stadsarkiv-client](https://github.com/aarhusstadsarkiv/stadsarkiv-client)
+This repo is a client built using [stadsarkiv-client](https://github.com/aarhusstadsarkiv/stadsarkiv-client)
 
 See above READMEs for more information about server setup. 
